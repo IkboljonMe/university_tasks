@@ -1,0 +1,10 @@
+
+# Create directory structure
+mkdir -p lab1/Ikboljon/Abdurasulov/lab1/documents
+mkdir -p lab1/Ikboljon/Abdurasulov/lab1/programs
+mkdir -p lab1/Ikboljon/Abdurasulov/lab1/sources
+
+# Create files
+touch lab1/Ikboljon/Abdurasulov/lab1/documents/42370.txt
+touch lab1/Ikboljon/Abdurasulov/lab1/documents/commands.txt
+touch lab1/Ikboljon/Abdurasulov/lab1/sources/hello.cpp

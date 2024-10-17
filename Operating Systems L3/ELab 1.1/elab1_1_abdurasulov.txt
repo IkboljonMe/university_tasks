@@ -1,0 +1,12 @@
+
+ELab 1 1 File list
+
+My surname is Abdurasulov
+
+# Command to list files and directories in /etc where the second letter is the same as the second letter of the surname:
+
+ls /etc | grep '^.b'
+
+# Command to list files and directories in /etc that have the first and third letters of the surname in their names:
+
+ls /etc | grep 'A.*d'
