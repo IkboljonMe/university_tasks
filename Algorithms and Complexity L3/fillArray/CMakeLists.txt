@@ -3,6 +3,6 @@ project(fillArray)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(fillArray main.cpp
+add_executable(fillArray Std2DArrayApps.cpp
         Std2DArrays.h
         Std2DArrays.cpp)
